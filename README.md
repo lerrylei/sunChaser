@@ -6,7 +6,7 @@ A semi-autonomous robot that aims to fully optimize the power of renewable solar
 ## About 
 This robot is built using an Arduino Uno, an H-Bridge motor driver, two DC hobby motors, two positional servos, four light detecting resistors, and a joystick. All parts were provided from Cornell's Maker Club Lab. Its theoretical functionality can be applied in space travel for designing extraplanetary rovers. 
 
-For a more detailed overview of the project, check out the [project presentation](https://github.com/lerrylei/sunChaser/files/11095372/Project.Sun.Chaser.pdf)
+For a more detailed overview of the project, check out the [project presentation](Project%20Sun%20Chaser.pdf)
 
 
 [![Short Demo Video](https://user-images.githubusercontent.com/41922343/228394081-40f556b8-373a-493e-9413-f3f3e9debd68.png)](https://youtu.be/q-6LHwicius "Sun Chaser Mini Demo - Click to Watch!")
@@ -17,7 +17,7 @@ Annotated photos of the final design of the robot.
 ![Screenshot 2023-03-28 202149](https://user-images.githubusercontent.com/41922343/228395380-cb654a45-f27f-42d8-867e-8cb29363f39f.png)
 
 ## Code
-Refer to the [Arduino code]() included in this repository. Code is split between the two functions corresponding to the two main abilities of Sun Chaser. motorControl() utilizes mapping from the joystick analog values to the dc motors drive values. solarTrack() calculates the average amount of light on each side with photoresistors and utilizes servos to adjust so that each side has a similar amount of light 
+Refer to the [Arduino code](solar%20chaser.ino) included in this repository. Code is split between the two functions corresponding to the two main abilities of Sun Chaser. motorControl() utilizes mapping from the joystick analog values to the dc motors drive values. solarTrack() calculates the average amount of light on each side with photoresistors and utilizes servos to adjust so that each side has a similar amount of light 
 
 ## Circuit Diagram
 ![Screenshot 2023-03-26 115329](https://user-images.githubusercontent.com/41922343/228395434-bcabefa7-7236-4e49-a32e-33e98bd0d3bb.png)
