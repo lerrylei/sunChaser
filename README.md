@@ -1,5 +1,5 @@
 # Sun Chaser
-A semi-autonomous robot that aims to fully optimize the power of renewable solar energy with a double axis solar tracker and two robust DC motor wheels. This project was made in 24 hours as part of Cornell's 2023 Makeathon and won the Best Hardware Award.
+A semi-autonomous robot that aims to fully optimize the power of renewable solar energy with a double axis solar tracker and two robust DC motor wheels. This project was made in under 24 hours as part of Cornell's 2023 Makeathon and won the Best Hardware Award.
 
 <img src=https://user-images.githubusercontent.com/41922343/227791455-e153e543-f78e-4998-8be7-5f0e63a6b044.jpg width=67% height=67%>
 
