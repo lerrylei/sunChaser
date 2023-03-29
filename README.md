@@ -9,8 +9,8 @@ This robot is built using an Arduino Uno, an H-Bridge motor driver, two DC hobby
 For a more detailed overview of the project, check out the [project presentation](Project%20Sun%20Chaser.pdf)
 
 
-[![Short Demo Video](https://user-images.githubusercontent.com/41922343/228394081-40f556b8-373a-493e-9413-f3f3e9debd68.png)](https://youtu.be/q-6LHwicius "Sun Chaser Mini Demo - Click to Watch!")
-![OneZero Trailer - Hackathon Submission](https://user-images.githubusercontent.com/41922343/228394420-56f4c4ee-0f41-4389-8619-94380013f57e.png "Sun Chaser Trailer")
+[![Short Demo Video](https://user-images.githubusercontent.com/41922343/228394081-40f556b8-373a-493e-9413-f3f3e9debd68.png)](https://www.youtube.com/watch?v=S6vW2cd_toc "Sun Chaser Mini Demo - Click to Watch!")
+[![OneZero Trailer - Hackathon Submission](https://user-images.githubusercontent.com/41922343/228394420-56f4c4ee-0f41-4389-8619-94380013f57e.png)](https://www.youtube.com/watch?v=moIj7PU96cQ "Sun Chaser Trailer")
 
 ## Design
 Annotated photos of the final design of the robot. 
