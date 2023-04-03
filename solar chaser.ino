@@ -43,20 +43,7 @@ void loop() {
   // intiate servos
   horizontal.write(80);
   vertical.write(90);
-
   solarTrack();
-  
-  // debugging photoresistors 
-  // int tlVal = analogRead(topleft);
-  // int trVal = analogRead(topright);
-  // int blVal = analogRead(botleft);
-  // int brVal = analogRead(botright);
-
-  // Serial.println(tlVal);
-  // Serial.println(trVal);
-  // Serial.println(blVal);
-  // Serial.println(brVal);
-  // Serial.println(" ");
 }
 
 void motorControl() {
